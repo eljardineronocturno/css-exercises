@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+.class1 {
+    background-color: lightcoral;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#id1 {
+        color: blue;
+    font-size: 36px;
+}
+
+.class2 {
+    font-size: 24px;
+    background-color: lightcoral;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#id2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;  
+}
+
+.class3 {
+    background-color: lightcoral;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
