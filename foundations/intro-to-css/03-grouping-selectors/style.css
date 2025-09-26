@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+body {
+    font-family: Helvetica, 'Times New Roman', "sans-serif";
+}
+
+.b1 {
+    background-color: black;
+    color: white;
+    font-size: 28px;
+}
+
+.b2 {
+    background-color: yellow;
+    font-size: 28px;
+}
